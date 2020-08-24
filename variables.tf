@@ -40,7 +40,6 @@ variable "kubernetes_version" {
   default = null
 }
 
-
 variable "vpc_id" {
   type = string
 }
